@@ -12,9 +12,10 @@
   <h3>📁 download termux</h3>
   <p><a href="https://f-droid.org/repo/com.termux_117.apk" target="_blank" rel="noopener noreferrer">https://f-droid.org/repo/com.termux_117.apk</a></p>
 
-    <h4>🖼️ Screenshot</h4>
+  
+  <h4>🖼️ Screenshot</h4>
   <p>
-    <img src="?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/Yetazyyy/Bz2/blob/main/Screenshot_2025-09-09-08-17-07-902_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
   </p>
 
 ### ✨ Tujuan
