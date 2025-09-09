@@ -9,12 +9,6 @@
 </p>
 
 ---
-
-### 📁 Download Termux
-[https://f-droid.org/repo/com.termux_117.apk](https://f-droid.org/repo/com.termux_117.apk)
-
----
-
 ### 🖼️ Screenshot
 <p align="center">
   <img src="https://github.com/Yetazyyy/Bz2/blob/main/Screenshot_2025-09-09-08-17-07-902_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
@@ -39,3 +33,4 @@ Manfaatnya antara lain:
 2. jalankan script itu di apps Pydroid 3 
 3. Masukkan nama file Python asli (contoh: script.py)
 4. Masukkan nama file keluaran untuk skrip terkompresi (misalnya: compressed_script.py)
+5. Done ✅
