@@ -35,6 +35,6 @@ Manfaatnya antara lain:
 
 ### Cara Penggunaan
 
-1. copy script yang ada di YetahubX.py
-2. jalankan script itu di apps Pydroid
-3. cari file yang ingin dikompresi contoh : Yetahub.py
+1. copy script di YetahubX.py
+2. jalankan script itu di apps Pydroid 3 
+3. cari file yang ingin dikompresi contoh : fileyetahub.py
