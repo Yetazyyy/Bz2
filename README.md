@@ -34,6 +34,6 @@ pip install bs4
 pip install colorama
 pkg install python3
 rm -rf Bz2
-git clone https://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@github.com/Yetazyyy/Bz2.git
+git clone https://github.com/Yetazyyy/Bz2.git
 cd Bz2
 python3 YetahubX.py
