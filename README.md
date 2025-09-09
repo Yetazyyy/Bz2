@@ -1,5 +1,4 @@
 <h1 align="center">
-  Python BZ2 [ kompresi ]
   Projects by Yetazyyy
 </h1>
 
