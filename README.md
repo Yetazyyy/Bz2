@@ -35,24 +35,6 @@ Manfaatnya antara lain:
 
 ### Cara Penggunaan
 
-1. Salin script Python yang sudah dikompresi ke file, misalnya `YetaHubX.py`.
-2. Jalankan script tersebut menggunakan aplikasi Pydroid 3 atau Termux.
-
-Contoh script sederhana untuk menjalankan kode Python terkompresi:
-
-```python
-import bz2
-
-# Contoh kode Python yang akan dikompresi
-source_code = """
-print("Halo dari kode terkompresi!")
-"""
-
-# Kompresi kode sumber
-compressed_code = bz2.compress(source_code.encode('utf-8'))
-
-# Dekompresi kode
-decompressed_code = bz2.decompress(compressed_code).decode('utf-8')
-
-# Eksekusi kode hasil dekompresi
-exec(decompressed_code)
+1. copy script yang ada di YetahubX.py
+2. jalankan script itu di apps Pydroid
+3. cari file yang ingin dikompresi contoh : Yetahub.py
