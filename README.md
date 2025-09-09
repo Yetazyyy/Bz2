@@ -1,5 +1,5 @@
 <h1 align="center">
-  🐍 Python BZ2 Projects by YetaHUB
+  Python BZ2 Projects by Yetazyyy
 </h1>
 
 <p align="center">
