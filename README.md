@@ -24,16 +24,6 @@ Menjalankan kode Python yang telah dikompresi menggunakan modul `bz2`. Ini bergu
 - Menyimpan script dalam bentuk kompresi
 - Memuat kode dari file atau string terenkripsi
 ---
-### 📲 Termux
-```text
-apt update
-apt upgrade
-pkg install git
-pip install requests
-pip install bs4
-pip install colorama
-pkg install python3
-rm -rf Bz2
-git clone https://github.com/Yetazyyy/Bz2.git
-cd Bz2
-python3 YetahubX.py
+### kenapa tidak berhasil ?
+langsung copy aja di YetaHubX.py 
+dan langsung ke apps Pydroid 3 
