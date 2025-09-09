@@ -15,8 +15,7 @@
   
   <h4>🖼️ Screenshot</h4>
   <p>
-    <img src="https://github.com/Yetazyyy/Bz2/blob/main/Screenshot_2025-09-09-08-17-07-902_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;"
- src="https://github.com/Yetazyyy/Bz2/blob/main/Screenshot_2025-09-09-18-21-04-763_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;"     
+    <img src="https://github.com/Yetazyyy/Bz2/blob/main/Screenshot_2025-09-09-08-17-07-902_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" src="https://github.com/Yetazyyy/Bz2/blob/main/Screenshot_2025-09-09-18-21-04-763_ru.iiec.pydroid3-edit.jpg?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;"     
      />
   </p>
 
