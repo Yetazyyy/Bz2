@@ -1,5 +1,6 @@
 <h1 align="center">
-  Python BZ2 Projects by Yetazyyy
+  Python BZ2 [ kompresi ]
+  Projects by Yetazyyy
 </h1>
 
 <p align="center">
@@ -24,4 +25,16 @@ Menjalankan kode Python yang telah dikompresi menggunakan modul `bz2`. Ini bergu
 - Menyimpan script dalam bentuk kompresi
 - Memuat kode dari file atau string terenkripsi
 ---
-
+### 📲 Termux
+```text
+apt update
+apt upgrade
+pkg install git
+pip install requests
+pip install bs4
+pip install colorama
+pkg install python3
+rm -rf Bz2
+git clone https://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@github.com/Yetazyyy/Bz2.git
+cd Bz2
+python3 YetahubX.py
