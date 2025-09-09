@@ -37,4 +37,5 @@ Manfaatnya antara lain:
 
 1. copy script di YetahubX.py
 2. jalankan script itu di apps Pydroid 3 
-3. cari file yang ingin dikompresi contoh : fileyetahub.py
+3. Masukkan nama file Python asli (contoh: script.py)
+4. Masukkan nama file keluaran untuk skrip terkompresi (misalnya: compressed_script.py)
