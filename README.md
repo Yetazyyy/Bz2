@@ -12,6 +12,11 @@
   <h3>📁 download termux</h3>
   <p><a href="https://f-droid.org/repo/com.termux_117.apk" target="_blank" rel="noopener noreferrer">https://f-droid.org/repo/com.termux_117.apk</a></p>
 
+    <h4>🖼️ Screenshot</h4>
+  <p>
+    <img src="?raw=true" alt="Screenshot" style="max-width: 100%; height: auto;" />
+  </p>
+
 ### ✨ Tujuan
 Menjalankan kode Python yang telah dikompresi menggunakan modul `bz2`. Ini berguna untuk:
 - Menyembunyikan source code
