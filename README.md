@@ -34,3 +34,6 @@ Manfaatnya antara lain:
 3. Masukkan nama file Python asli (contoh: script.py)
 4. Masukkan nama file keluaran untuk skrip terkompresi (misalnya: compressed_script.py)
 5. Done ✅
+   
+### Warning ⚠️
+note : jangan bobol kerna script itu ada malware jika di bobol
