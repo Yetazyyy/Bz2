@@ -36,4 +36,4 @@ Manfaatnya antara lain:
 5. Done ✅
    
 ### Warning ⚠️
-note : jangan bobol kerna script itu ada malware jika di bobol
+note : jangan bobol kerna jika ga mahu data mu hilang 
